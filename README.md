@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @CarlosPedroto
 - 👀 I’m interested something
 - 🌱 I’m currently learning code
-- 💞️ I’m looking to collaborate on nautilus projects
-- 📫 How to reach me discord Carlos.
+
 
 <!---
 CarlosPedroto/CarlosPedroto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
